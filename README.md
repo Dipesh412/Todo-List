@@ -1,6 +1,6 @@
 
 # Access from here 
-<a href=" https://dipesh412.github.io/Todo-List/">live host</a>
+<a href=" https://dipesh412.github.io/Todo-List/">Live host</a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
